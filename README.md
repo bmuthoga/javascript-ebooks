@@ -205,7 +205,7 @@ The MIT License (MIT)
 [**012. Server-Side JavaScript auf der JVM by Peter Doschkinow**](%5BORACLE%5D%5BServer-Side%20JavaScript%20auf%20der%20JVM%20by%20Peter%20Doschkinow%5D.pdf)  
 [**013. Functional and Reactive programming using Facebook's React and Appian's SAIL by Carlos Aguayo - 2016**](%5BFunctional%20and%20Reactive%20programming%20using%20Facebook's%20React%20and%20Appian's%20SAIL%20by%20Carlos%20Aguayo%20-%202016%5D.pdf)  
 
-## Online resources, the best collection
+## Online resources, overall the best collection 
 
 [**000. Exploring ES6 by Axel Rauschmayer, exploringjs.com**](http://exploringjs.com/es6)  
 [**001. ES6 In Depth Articles, hacks.mozilla.org**](https://hacks.mozilla.org/category/es6-in-depth)  
